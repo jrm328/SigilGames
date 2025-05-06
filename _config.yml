@@ -2,9 +2,9 @@ title: "Sigil Games"
 email: contact@sigilgames.com
 description: >-
   Sigil Games is an indie game studio crafting cozy, cinematic experiences with heart.
-baseurl: "" # keep empty for GitHub Pages
-url: "https://jrm328.github.io/SigilGames/"
-remote_theme: mmistakes/minimal-mistakes
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://jrm328.github.io" # the base hostname & protocol for your site
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 plugins:
   - jekyll-feed
@@ -12,24 +12,22 @@ plugins:
   - jekyll-sitemap
   - jekyll-include-cache
 
-# SEO settings
-twitter:
-  username: Its_Just_Joe_
-github:
-  username: jrm328
+# Optional: Set a skin (color scheme)
+minimal_mistakes_skin: "default"
 
+# Optional: Author settings
 author:
-  name: Joe McLauchlan
+  name: "Joe McLauchlan"
   avatar: "https://raw.githubusercontent.com/jrm328/SigilGames/refs/heads/main/assets/images/joe.jpg"
-  bio: "Founder of Sigil Games. Building cozy interactive stories."
+  bio: "Founder of Sigil Games. Building interactive stories."
 
-# Optional: navbar links
+# Optional: Navigation links
 nav:
   - title: "Home"
-    url: /
+    url: "/"
   - title: "Games"
-    url: /games/
+    url: "/games/"
   - title: "Blog"
-    url: /blog/
+    url: "/blog/"
   - title: "Contact"
-    url: /contact/
+    url: "/contact/"
