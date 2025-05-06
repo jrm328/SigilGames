@@ -20,7 +20,7 @@ github:
 
 author:
   name: Joe McLauchlan
-  avatar: "/assets/images/joe.jpg"
+  avatar: "https://raw.githubusercontent.com/jrm328/SigilGames/refs/heads/main/assets/images/joe.jpg"
   bio: "Founder of Sigil Games. Building cozy interactive stories."
 
 # Optional: navbar links
