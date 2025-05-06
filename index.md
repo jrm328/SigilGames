@@ -9,7 +9,7 @@ We craft cozy, atmospheric indie games with soul. Follow our journey as we build
 
 ## Featured Game: Where the River Goes
 
-![Where the River Goes]([/assets/images/where-the-river-goes.jpg](https://raw.githubusercontent.com/jrm328/SigilGames/refs/heads/main/assets/images/where-the-river-goes.jpg))
+![Where the River Goes](https://raw.githubusercontent.com/jrm328/SigilGames/refs/heads/main/assets/images/where-the-river-goes.jpg)
 
 A cozy drifting adventure. Wishlist it now on [Steam](https://store.steampowered.com).
 
