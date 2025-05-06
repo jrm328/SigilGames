@@ -4,7 +4,7 @@ description: >-
   Sigil Games is an indie game studio crafting cozy, cinematic experiences with heart.
 baseurl: "" # keep empty for GitHub Pages
 url: "https://jrm328.github.io/SigilGames/"
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 
 plugins:
   - jekyll-feed
