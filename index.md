@@ -13,7 +13,7 @@ We craft cozy, atmospheric indie games with soul. Follow our journey as we build
 
 A cozy drifting adventure. Wishlist it now on [Steam](https://store.steampowered.com).
 
-## Latest YouTube Video
+## Our Latest YouTube Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed?listType=user_uploads&list=UCYV3W64Em3t8DA305hWj3lA" frameborder="0" allowfullscreen></iframe>
 
