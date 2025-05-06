@@ -15,7 +15,13 @@ A cozy drifting adventure. Wishlist it now on [Steam](https://store.steampowered
 
 ## Our Latest YouTube Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed?listType=user_uploads&list=UCYV3W64Em3t8DA305hWj3lA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/2fGmZr1Fi8M" 
+  title="Latest devlog" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
 
 ## Read the Blog
 
