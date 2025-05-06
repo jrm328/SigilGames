@@ -1,14 +1,35 @@
-title: Sigil Games
+title: "Sigil Games"
 email: contact@sigilgames.com
 description: >-
-  Sigil Games is an indie game studio focused on cinematic and cozy digital experiences.
-baseurl: ""
-url: "https://sigilgames.github.io"
+  Sigil Games is an indie game studio crafting cozy, cinematic experiences with heart.
+baseurl: "" # keep empty for GitHub Pages
+url: "https://jrm328.github.io/SigilGames/"
+theme: minimal-mistakes-jekyll
 
-# theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-include-cache
 
-sass:
-  style: compressed
+# SEO settings
+twitter:
+  username: Its_Just_Joe_
+github:
+  username: jrm328
+
+author:
+  name: Joe McLauchlan
+  avatar: "/assets/images/joe.jpg"
+  bio: "Founder of Sigil Games. Building cozy interactive stories."
+
+# Optional: navbar links
+nav:
+  - title: "Home"
+    url: /
+  - title: "Games"
+    url: /games/
+  - title: "Blog"
+    url: /blog/
+  - title: "Contact"
+    url: /contact/
